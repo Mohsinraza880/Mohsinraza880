@@ -2,10 +2,10 @@
 
 I am Mohsin Raza,I am currently working as a Mobile App Developer Developer at Emerald Labs.
 
-- 🌱 I’ve Expertise in web development ** Ruby on Rails, PostgresSql, MongoDB, Machine Learning, Tensorflow, Keras **
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with React and Javascript **
-- 🥅 2022 Goals: To be profficient in Ruby on Rails and React.
+- 🌱 I’ve Expertise in mobile app development ** iOS,Swift,SwiftUI,Android,Kotlin**
+- 👯 I’m looking to collaborate on mobile app development Related Projects **
+- 🤔 I’m looking for help with React native and Javascript **
+- 🥅 2024 Goals: To be profficient in React native.
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 
