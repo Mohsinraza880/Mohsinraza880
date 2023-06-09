@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohsin</h1>
 
-I am Mohsin Raza,I am currently working as a Mobile App Developer Developer at Emerald Labs.
+I am Mohsin Raza,I am currently working as a Mobile App Developer at Emerald Labs.
 
 - 🌱 I’ve Expertise in mobile app development ** iOS,Swift,SwiftUI,Android,Kotlin**
 - 👯 I’m looking to collaborate on mobile app development Related Projects **
