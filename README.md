@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohsin</h1>
 
-I am Mohsin Raza,I am currently working as a Mobile App Developer at Emerald Labs.
+Full Stack Mobile Developer | iOS | Android | React Native
+With over 5 years of hands-on experience, I am open to new ideas and concepts as I develop full stack
+mobile applications. My commitment to continuous learning is demonstrated by my journey from iOS to
+Android and finally to React Native. I thrive in collaborative environments, evident in my contributions to a
+dynamic team of 30+ developers and my leadership role guiding a team of 4 developers.
 
-- 🌱 I’ve Expertise in mobile app development ** iOS,Swift,SwiftUI,Android,Kotlin**
+- 🌱 I’ve Expertise in mobile app development ** iOS,Swift,SwiftUI,Android,Kotlin,React Native,Javascript**
 - 👯 I’m looking to collaborate on mobile app development Related Projects **
 - 🤔 I’m looking for help with React native and Javascript **
 - 🥅 2024 Goals: To be profficient in React native.
